@@ -1,6 +1,6 @@
 # Product Sum
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-01-20 at 19.55.24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-01-20 at 19.55.24 (1).png" alt=""><figcaption></figcaption></figure>
 
 ```jsx
 // Tip: You can use the Array.isArray function to check whether an item

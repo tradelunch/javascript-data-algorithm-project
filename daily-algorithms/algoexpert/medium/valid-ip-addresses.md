@@ -1,6 +1,6 @@
 # Valid IP Addresses
 
-![](<../../../.gitbook/assets/Screenshot 2023-02-05 at 14.27.30.png>)
+![](<../../../.gitbook/assets/Screenshot 2023-02-05 at 14.27.30 (1).png>)
 
 * 1, 1 why? a length of string is always less than or equal to 12
 

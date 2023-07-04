@@ -42,7 +42,7 @@ min\_subArray\_sum
 값이 0 이하로 떨어진 이후엔 
 ```
 
-<figure><img src="../../../../.gitbook/assets/kadane-algorithm-tmb.jpg" alt=""><figcaption><p>max sub array sum</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/kadane-algorithm-tmb (1).jpg" alt=""><figcaption><p>max sub array sum</p></figcaption></figure>
 
 
 

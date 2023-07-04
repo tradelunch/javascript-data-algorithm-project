@@ -6,7 +6,7 @@
 
 {% embed url="https://leetcode.com/problems/maximum-subarray/submissions/964826288/" %}
 
-<figure><img src="../../../../.gitbook/assets/kadane-algorithm-tmb (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/kadane-algorithm-tmb.jpg" alt=""><figcaption></figcaption></figure>
 
 ```javascript
 var maxSubArray = function(nums) {

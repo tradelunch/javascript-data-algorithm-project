@@ -1,6 +1,6 @@
 # Sorted Squared Array
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-01-20 at 15.03.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-01-20 at 15.03.45 (1).png" alt=""><figcaption></figcaption></figure>
 
 ```javascript
 function sortedSquaredArray(arr) {

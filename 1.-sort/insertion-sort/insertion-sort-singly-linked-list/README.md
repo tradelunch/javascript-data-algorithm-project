@@ -2,7 +2,7 @@
 
 {% embed url="https://www.algoexpert.io/questions/insertion-sort" %}
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-06-07 at 10.11.10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-06-07 at 10.11.10.png" alt=""><figcaption></figcaption></figure>
 
 
 

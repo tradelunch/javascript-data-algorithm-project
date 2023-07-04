@@ -2,7 +2,7 @@
 
 
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-01-20 at 15.00.16 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-01-20 at 15.00.16 (14).png" alt=""><figcaption></figcaption></figure>
 
 ```javascript
 function isValidSubsequence(arr, sequence) {

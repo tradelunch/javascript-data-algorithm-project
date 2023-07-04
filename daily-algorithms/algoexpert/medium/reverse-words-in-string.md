@@ -1,6 +1,6 @@
 # Reverse Words in String
 
-![](<../../../.gitbook/assets/Screenshot 2023-02-05 at 14.27.30 (1).png>)
+![](<../../../.gitbook/assets/Screenshot 2023-02-05 at 14.27.30.png>)
 
 * n, n
 
