@@ -1,0 +1,6 @@
+# Prim vs Digkstra
+
+
+
+Prim
+
