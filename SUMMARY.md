@@ -175,6 +175,7 @@
   * [Mission, Vision, Key Values, Goal, Strategy, Tatics](daily-algorithms/study/mission-vision-key-values-goal-strategy-tatics.md)
   * [Source](daily-algorithms/study/source.md)
   * [Problems](daily-algorithms/study/problems/README.md)
+    * [7. 153. Find Minimum in Rotated Sorted Array](daily-algorithms/study/problems/7.-153.-find-minimum-in-rotated-sorted-array.md)
     * [6. 152. Maximum Product Subarray](daily-algorithms/study/problems/6.-152.-maximum-product-subarray.md)
     * [5. 53. Maximum Subarray](daily-algorithms/study/problems/5.-53.-maximum-subarray.md)
     * [4. 238. Product of Array Except Self](daily-algorithms/study/problems/4.-238.-product-of-array-except-self.md)
