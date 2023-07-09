@@ -175,6 +175,8 @@
   * [Mission, Vision, Key Values, Goal, Strategy, Tatics](daily-algorithms/study/mission-vision-key-values-goal-strategy-tatics.md)
   * [Source](daily-algorithms/study/source.md)
   * [Problems](daily-algorithms/study/problems/README.md)
+    * [12. 191. Number of 1 Bits](daily-algorithms/study/problems/12.-191.-number-of-1-bits.md)
+    * [11. 371. Sum of Two Integers](daily-algorithms/study/problems/11.-371.-sum-of-two-integers.md)
     * [2023 0709 39. Combination Sum](daily-algorithms/study/problems/2023-0709-39.-combination-sum.md)
     * [10.  11. Container With Most Water](daily-algorithms/study/problems/10.-11.-container-with-most-water.md)
     * [9. 15. 3Sum](daily-algorithms/study/problems/9.-15.-3sum.md)
