@@ -4,9 +4,9 @@
 
 
 
-> time: O()
+> time: O(nk), n is length of lists, k is the length of largest ListNode
 
-> space: O()
+> space: O(1), use reference
 
 ```javascript
 /**
