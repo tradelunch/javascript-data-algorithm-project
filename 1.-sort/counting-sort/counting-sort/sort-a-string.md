@@ -6,7 +6,7 @@
 
 > time: O(n)
 
-> space: O(1), alphabet characters are 26
+> space: O(n + 26), alphabet characters are 26, n is the length of string
 
 ```java
 class Solution 
