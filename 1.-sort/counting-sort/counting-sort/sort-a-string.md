@@ -4,37 +4,43 @@
 
 
 
+> time: O(n)
 
+> space: O(1), alphabet characters are 26
 
 ```java
-//User function Template for Java
 class Solution 
 { 
     String sort(String s) 
     {
         // code here
-        int abc[] = new int[27];
+        int abc[] = new int[27]; 
         // System.out.println(abc.toString());
         
+        for (int i = 0; i < s.length(); i++) { 
+            int c = s.charAt(i) - 96; 
+            abc[c] += 1; 
+        } 
+        
+        for (int i = 1; i < abc.length; i++) { 
+            abc[i] = abc[i - 1] + abc[i]; 
+            // System.out.println(i + " " + abc[i]); 
+        } 
+        
+        char answer[] = new char[s.length()];
         for (int i = 0; i < s.length(); i++) {
-            int c = s.charAt(i) - 96;
-            abc[c] += 1;
+            int num = s.charAt(i) - 96;
+            int index = abc[num];
+            answer[index - 1] = (char) (num + 96);
+            abc[num]--;
         }
         
-        for (int i = 1; i < abc.length; i++) {
-            abc[i] = abc[i - 1] + abc[i];
-            // System.out.println(i + " " + abc[i]);
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < answer.length; i++) {
+            sb.append(answer[i]);
         }
         
-        StringBuilder answer = new StringBuilder();
-        for (int i = abc.length - 1; i >= 1; i--) {
-            if (abc[i - 1] < abc[i]) {
-                answer.append((char) (i + 96));
-                abc[i]--;
-            }
-        }
-        
-        return answer.reverse().toString();
+        return sb.toString();
     }
 }
 
