@@ -178,6 +178,7 @@
   * [Problems](daily-algorithms/study/problems/README.md)
     * [Dynamic Programming](daily-algorithms/study/problems/dynamic-programming/README.md)
       * [Page 1](daily-algorithms/study/problems/dynamic-programming/page-1.md)
+      * [300. Longest Increasing Subsequence](daily-algorithms/study/problems/dynamic-programming/300.-longest-increasing-subsequence.md)
       * [322. Coin Change](daily-algorithms/study/problems/dynamic-programming/322.-coin-change.md)
       * [70. Climbing Stairs](daily-algorithms/study/problems/dynamic-programming/70.-climbing-stairs.md)
     * [String](daily-algorithms/study/problems/string/README.md)
