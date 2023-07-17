@@ -177,6 +177,7 @@
   * [Source](daily-algorithms/study/source.md)
   * [Problems](daily-algorithms/study/problems/README.md)
     * [Dynamic Programming](daily-algorithms/study/problems/dynamic-programming/README.md)
+      * [198. House Robber](daily-algorithms/study/problems/dynamic-programming/198.-house-robber.md)
       * [377. Combination Sum IV](daily-algorithms/study/problems/dynamic-programming/377.-combination-sum-iv.md)
       * [x 139. Word Break](daily-algorithms/study/problems/dynamic-programming/x-139.-word-break.md)
       * [1143. Longest Common Subsequence](daily-algorithms/study/problems/dynamic-programming/1143.-longest-common-subsequence.md)
