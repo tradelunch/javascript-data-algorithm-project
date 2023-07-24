@@ -176,6 +176,8 @@
   * [Mission, Vision, Key Values, Goal, Strategy, Tatics](daily-algorithms/study/mission-vision-key-values-goal-strategy-tatics.md)
   * [Source](daily-algorithms/study/source.md)
   * [Problems](daily-algorithms/study/problems/README.md)
+    * [Tree](daily-algorithms/study/problems/tree/README.md)
+      * [104. Maximum Depth of Binary Tree](daily-algorithms/study/problems/tree/104.-maximum-depth-of-binary-tree.md)
     * [Dynamic Programming](daily-algorithms/study/problems/dynamic-programming/README.md)
       * [55. Jump Game](daily-algorithms/study/problems/dynamic-programming/55.-jump-game.md)
       * [Page 4](daily-algorithms/study/problems/dynamic-programming/page-4.md)
