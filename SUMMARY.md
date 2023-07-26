@@ -177,6 +177,7 @@
   * [Source](daily-algorithms/study/source.md)
   * [Problems](daily-algorithms/study/problems/README.md)
     * [Tree](daily-algorithms/study/problems/tree/README.md)
+      * [124. Binary Tree Maximum Path Sum](daily-algorithms/study/problems/tree/124.-binary-tree-maximum-path-sum.md)
       * [226. Invert Binary Tree](daily-algorithms/study/problems/tree/226.-invert-binary-tree.md)
       * [100. Same Tree](daily-algorithms/study/problems/tree/100.-same-tree.md)
       * [104. Maximum Depth of Binary Tree](daily-algorithms/study/problems/tree/104.-maximum-depth-of-binary-tree.md)
