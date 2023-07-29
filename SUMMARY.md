@@ -197,6 +197,7 @@
       * [322. Coin Change](daily-algorithms/study/problems/dynamic-programming/322.-coin-change.md)
       * [70. Climbing Stairs](daily-algorithms/study/problems/dynamic-programming/70.-climbing-stairs.md)
     * [String](daily-algorithms/study/problems/string/README.md)
+      * [139. Word Break](daily-algorithms/study/problems/string/139.-word-break.md)
       * [3. Longest Substring Without Repeating Characters](daily-algorithms/study/problems/string/3.-longest-substring-without-repeating-characters.md)
     * [Matrix](daily-algorithms/study/problems/matrix/README.md)
       * [54. Spiral Matrix](daily-algorithms/study/problems/matrix/54.-spiral-matrix.md)
