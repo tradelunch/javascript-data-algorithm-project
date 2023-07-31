@@ -179,6 +179,7 @@
     * [Graph](daily-algorithms/study/problems/graph/README.md)
       * [133. Clone Graph](daily-algorithms/study/problems/graph/133.-clone-graph.md)
     * [Tree](daily-algorithms/study/problems/tree/README.md)
+      * [235. Lowest Common Ancestor of a Binary Search Tree](daily-algorithms/study/problems/tree/235.-lowest-common-ancestor-of-a-binary-search-tree.md)
       * [230. Kth Smallest Element in a BST](daily-algorithms/study/problems/tree/230.-kth-smallest-element-in-a-bst.md)
       * [98. Validate Binary Search Tree](daily-algorithms/study/problems/tree/98.-validate-binary-search-tree.md)
       * [572. Subtree of Another Tree](daily-algorithms/study/problems/tree/572.-subtree-of-another-tree.md)
