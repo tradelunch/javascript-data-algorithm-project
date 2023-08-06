@@ -34,6 +34,7 @@
       * [Count edges - undirected only](2.-data-structures/graph/detect-a-cycle-in-a-graph/count-edges-undirected-only.md)
   * [Linked List](2.-data-structures/linked-list.md)
   * [Trie](2.-data-structures/trie/README.md)
+    * [Javascript](2.-data-structures/trie/javascript.md)
     * [Java](2.-data-structures/trie/java.md)
   * [Union Find](2.-data-structures/union-find/README.md)
     * [Detect Cycle with Disjoint-set Union Find](2.-data-structures/union-find/detect-cycle-with-disjoint-set-union-find.md)
