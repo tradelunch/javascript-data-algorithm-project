@@ -181,6 +181,8 @@
   * [Mission, Vision, Key Values, Goal, Strategy, Tatics](daily-algorithms/study/mission-vision-key-values-goal-strategy-tatics.md)
   * [Source](daily-algorithms/study/source.md)
   * [Problems](daily-algorithms/study/problems/README.md)
+    * [Heap](daily-algorithms/study/problems/heap/README.md)
+      * [23. Merge k Sorted Lists](daily-algorithms/study/problems/heap/23.-merge-k-sorted-lists.md)
     * [Array](daily-algorithms/study/problems/array/README.md)
       * [10.  11. Container With Most Water](daily-algorithms/study/problems/array/10.-11.-container-with-most-water.md)
       * [9. 15. 3Sum](daily-algorithms/study/problems/array/9.-15.-3sum.md)
