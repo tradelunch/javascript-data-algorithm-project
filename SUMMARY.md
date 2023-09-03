@@ -182,7 +182,7 @@
   * [Source](daily-algorithms/study/source.md)
   * [Problems](daily-algorithms/study/problems/README.md)
     * [Heap](daily-algorithms/study/problems/heap/README.md)
-      * [x 295. Find Median from Data Stream](daily-algorithms/study/problems/heap/x-295.-find-median-from-data-stream.md)
+      * [x 295. Find Median from Data Stream](daily-algorithms/study/problems/heap/295.-find-median-from-data-stream.md)
       * [347. Top K Frequent Elements](daily-algorithms/study/problems/heap/347.-top-k-frequent-elements.md)
       * [23. Merge k Sorted Lists](daily-algorithms/study/problems/heap/23.-merge-k-sorted-lists.md)
     * [Array](daily-algorithms/study/problems/array/README.md)
