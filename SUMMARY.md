@@ -182,6 +182,7 @@
   * [Source](daily-algorithms/study/source.md)
   * [Problems](daily-algorithms/study/problems/README.md)
     * [Interval](daily-algorithms/study/problems/interval/README.md)
+      * [207. Course Schedule](daily-algorithms/study/problems/interval/207.-course-schedule.md)
       * [56. Merge Intervals](daily-algorithms/study/problems/interval/56.-merge-intervals.md)
       * [435. Non-overlapping Intervals](daily-algorithms/study/problems/interval/435.-non-overlapping-intervals.md)
       * [x 57. Insert Interval](daily-algorithms/study/problems/interval/x-57.-insert-interval.md)
