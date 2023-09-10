@@ -237,6 +237,7 @@
       * [70. Climbing Stairs](daily-algorithms/study/problems/dynamic-programming/70.-climbing-stairs.md)
       * [2023 0709 39. Combination Sum](daily-algorithms/study/problems/dynamic-programming/2023-0709-39.-combination-sum.md)
     * [String](daily-algorithms/study/problems/string/README.md)
+      * [5. Longest Palindromic Substring](daily-algorithms/study/problems/string/5.-longest-palindromic-substring.md)
       * [3. Longest Substring Without Repeating Characters](daily-algorithms/study/problems/string/3.-longest-substring-without-repeating-characters.md)
     * [Matrix](daily-algorithms/study/problems/matrix/README.md)
       * [x 48. Rotate Image](daily-algorithms/study/problems/matrix/x-48.-rotate-image.md)
