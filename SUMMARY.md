@@ -239,6 +239,7 @@
       * [70. Climbing Stairs](daily-algorithms/study/problems/dynamic-programming/70.-climbing-stairs.md)
       * [2023 0709 39. Combination Sum](daily-algorithms/study/problems/dynamic-programming/2023-0709-39.-combination-sum.md)
     * [String](daily-algorithms/study/problems/string/README.md)
+      * [125. Valid Palindrome](daily-algorithms/study/problems/string/125.-valid-palindrome.md)
       * [20. Valid Parentheses](daily-algorithms/study/problems/string/20.-valid-parentheses.md)
       * [49. Group Anagrams](daily-algorithms/study/problems/string/49.-group-anagrams.md)
       * [242. Valid Anagram](daily-algorithms/study/problems/string/242.-valid-anagram.md)
