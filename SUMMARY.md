@@ -229,7 +229,7 @@
       * [55. Jump Game](daily-algorithms/study/problems/dynamic-programming/55.-jump-game.md)
       * [Page 4](daily-algorithms/study/problems/dynamic-programming/page-4.md)
       * [Page 3](daily-algorithms/study/problems/dynamic-programming/page-3.md)
-      * [Page 1](daily-algorithms/study/problems/dynamic-programming/page-1.md)
+      * [x 213. House Robber II](daily-algorithms/study/problems/dynamic-programming/x-213.-house-robber-ii.md)
       * [198. House Robber](daily-algorithms/study/problems/dynamic-programming/198.-house-robber.md)
       * [377. Combination Sum IV](daily-algorithms/study/problems/dynamic-programming/377.-combination-sum-iv.md)
       * [x 139. Word Break](daily-algorithms/study/problems/dynamic-programming/x-139.-word-break.md)
