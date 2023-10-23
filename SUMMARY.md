@@ -201,6 +201,7 @@
       * [2. Best Time to Buy and Sell Stock](daily-algorithms/study/problems/array/2.-best-time-to-buy-and-sell-stock.md)
       * [3. Contains Duplicate](daily-algorithms/study/problems/array/3.-contains-duplicate.md)
     * [Binary](daily-algorithms/study/problems/binary/README.md)
+      * [x 338. Counting Bits](daily-algorithms/study/problems/binary/x-338.-counting-bits.md)
       * [12. 191. Number of 1 Bits](daily-algorithms/study/problems/binary/12.-191.-number-of-1-bits.md)
       * [11. 371. Sum of Two Integers](daily-algorithms/study/problems/binary/11.-371.-sum-of-two-integers.md)
     * [Graph](daily-algorithms/study/problems/graph/README.md)
