@@ -195,7 +195,7 @@
       * [9. 15. 3Sum](daily-algorithms/study/problems/array/9.-15.-3sum.md)
       * [8. 33. Search in Rotated Sorted Array](daily-algorithms/study/problems/array/8.-33.-search-in-rotated-sorted-array.md)
       * [7. 153. Find Minimum in Rotated Sorted Array](daily-algorithms/study/problems/array/7.-153.-find-minimum-in-rotated-sorted-array.md)
-      * [x 6. 152. Maximum Product Subarray](daily-algorithms/study/problems/array/x-6.-152.-maximum-product-subarray.md)
+      * [x 6. 152. Maximum Product Subarray](daily-algorithms/study/problems/array/6.-152.-maximum-product-subarray.md)
       * [5. 53. Maximum Subarray](daily-algorithms/study/problems/array/5.-53.-maximum-subarray.md)
       * [4. 238. Product of Array Except Self](daily-algorithms/study/problems/array/4.-238.-product-of-array-except-self.md)
       * [1. Two Sums](daily-algorithms/study/problems/array/1.-two-sums.md)
