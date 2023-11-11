@@ -8,7 +8,7 @@
 
 [prim-vs-dijkstra.md](../greedy-algorithm/prim-vs-dijkstra.md "mention")
 
-***
+
 
 {% embed url="https://nearhome.tistory.com/138" %}
 

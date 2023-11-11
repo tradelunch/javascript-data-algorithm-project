@@ -231,7 +231,7 @@
       * [104. Maximum Depth of Binary Tree](daily-algorithms/study/problems/tree/104.-maximum-depth-of-binary-tree.md)
     * [Dynamic Programming](daily-algorithms/study/problems/dynamic-programming/README.md)
       * [x 62. Unique Paths](daily-algorithms/study/problems/dynamic-programming/x-62.-unique-paths.md)
-      * [91. Decode Ways](daily-algorithms/study/problems/dynamic-programming/91.-decode-ways.md)
+      * [x91. Decode Ways](daily-algorithms/study/problems/dynamic-programming/x91.-decode-ways.md)
       * [55. Jump Game](daily-algorithms/study/problems/dynamic-programming/55.-jump-game.md)
       * [x 213. House Robber II](daily-algorithms/study/problems/dynamic-programming/x-213.-house-robber-ii.md)
       * [198. House Robber](daily-algorithms/study/problems/dynamic-programming/198.-house-robber.md)
