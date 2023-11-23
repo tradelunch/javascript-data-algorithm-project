@@ -73,7 +73,9 @@ exports.primsAlgorithm = primsAlgorithm;
 
 * minHeap
 
-> time: O(E \* logn)
+> time: O((E +V) \* log) > O(ElogV) \
+> ElogV ⇒ 정점에 연결된 간선에 대해 각각 힙에 넣는 과정 \
+> VlogV ⇒ 매 정점마다 최소 간선 찾는 시간
 
 > Space: O(V + E)
 
