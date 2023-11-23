@@ -70,6 +70,7 @@
   * [Hardest](daily-algorithms/algoexpert/hardest/README.md)
     * [Merge Sort](daily-algorithms/algoexpert/hardest/merge-sort.md)
   * [Hard](daily-algorithms/algoexpert/hard/README.md)
+    * [Prim’s Algorithm](daily-algorithms/algoexpert/hard/prims-algorithm.md)
     * [Dijkstra’s Algorithm](daily-algorithms/algoexpert/hard/dijkstras-algorithm.md)
     * [Kruskal’s algorithm vs Prim’s algorithm](daily-algorithms/algoexpert/hard/kruskals-algorithm-vs-prims-algorithm.md)
     * [Topological Sort](daily-algorithms/algoexpert/hard/topological-sort.md)
