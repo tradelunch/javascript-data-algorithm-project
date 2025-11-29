@@ -1,2 +1,3 @@
-# 1. Sort
+#  Algorithm study with JavaScript
+
 
